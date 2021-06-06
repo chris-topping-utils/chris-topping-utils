@@ -1,6 +1,6 @@
 Hi!
 
-I'm Chris, an IT professional with a Service Delivery background moving into the sysadmin/devops space. 
+I'm Chris, an IT professional with a Service Delivery background moving into the Sysadmin/Devops space. 
 
 This is my repo of powershell scripts and code that has proved useful in saving me time, 
 troubleshooting escalated helpdesk tickets and automating the boring stuff.
