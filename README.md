@@ -1,3 +1,5 @@
+Hi!
+
 I'm Chris, an IT professional moving into the sysadmin/devops space. 
 
 This is my repo of powershell scripts and code that has proved useful in saving me time, 
