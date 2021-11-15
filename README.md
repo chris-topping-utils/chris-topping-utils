@@ -1,9 +1,8 @@
 Hi!
 
-I'm Chris, an IT professional with a Service Delivery background moving into the Sysadmin/Devops space. 
+I'm Chris, an IT professional with a Service Delivery background. My key focus here is to collate Powershell scripts that I've found useful in resolving escalated helpdesk tickets and automating boring stuff.
 
-This is my repo of powershell scripts and code that has proved useful in saving me time, 
-troubleshooting escalated helpdesk tickets and automating the boring stuff.
+
 
 <!---
 chris-topping-utils/chris-topping-utils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
